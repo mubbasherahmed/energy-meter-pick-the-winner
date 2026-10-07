@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.ipynb_checkpoints/
+.DS_Store
+# raw traces can be large; keep them out of git
+data/raw/
+*.log
+emissions.csv
